@@ -14,7 +14,7 @@ I have **8+ years of experience** working with **data analysis, statistical mode
 - 🏆 **Projects** in data science, machine learning, and business intelligence  
 - 📊 **SQL & Power BI Dashboards** for real-world analytics  
 - 🔬 **Exploratory Data Analysis (EDA) & Statistical Modelling** in Python/R  
-- 📖 **Research & Insights** from my work in behavioural science and epidemiology  
+- 📖 **Research & Insights** from my work in behavioural science  
 
 ## 💡 **Currently Exploring:**  
 - Enhancing my knowledge of **machine learning** and **cloud computing**  
