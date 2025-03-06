@@ -1,6 +1,6 @@
 # **Hi there! I'm Alice Bouchard 👋**  
 
-### 🚀 **Data Analyst | Biostatistician | Behavioural Scientist**  
+### 🚀 **Data Scientist | Biostatistician | Behavioural Scientist**  
 
 I have **8+ years of experience** working with **data analysis, statistical modelling, and data visualisation** across academic research and the public health sector. My expertise lies in **wrangling complex datasets, uncovering meaningful insights, and supporting data-driven decision-making**.  
 
